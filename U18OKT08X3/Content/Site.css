@@ -23,3 +23,18 @@ textarea {
 p{
     color: aliceblue;
 }
+
+footer {
+    background-color: #222222;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    color: #767B8A;
+}
