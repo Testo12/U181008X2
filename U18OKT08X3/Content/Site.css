@@ -1,6 +1,10 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-image: url("black.jpg");
+    
+    height: 100%;
+    width: 100%;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -16,3 +20,6 @@ textarea {
     max-width: 280px;
 }
 
+p{
+    color: aliceblue;
+}
